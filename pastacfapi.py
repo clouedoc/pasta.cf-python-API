@@ -46,3 +46,7 @@ def edit(pasta_token, pasta_password, pasta_title, pasta_text):
     """ You need to provide the new title and the new text of the pasta. """
     data = {'password': {pasta_password}, 'filename': {pasta_title}, 'content': {pasta_text}}
     r = requests.post('https://pasta.cf/' + pasta_token + '/edit2', data=data)
+    
+def read(pasta_token):
+    r = requests.get('https://pasta.cf/' + pasta_token + '/raw')
+    return r.text

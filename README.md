@@ -50,6 +50,10 @@ Remove a pasta. Return nothing
 
 Edit an already created pasta. Only work with editable pasta. Return nothing
 
+- read(pasta-token)
+
+Return a string containing the text of the pasta specified.
+
 ## Constants:
 
 ### Paste type:
