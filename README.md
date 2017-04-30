@@ -1,5 +1,3 @@
-# IN DEVEL: NOTHING is working AT 04/30/17
-
 # Installation
 
 ___You need to have ```requests``` installed on your system, for your specific version of python.___
