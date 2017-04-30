@@ -87,5 +87,5 @@ It's the type of the paste you just created (again!), if you forgot what is was.
 
 # Contributors:
 
-- Camille Eyriès
+- [Camille Eyriès](https://github.com/camilleeyries/)
 - You ?
