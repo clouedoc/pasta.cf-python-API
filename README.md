@@ -95,3 +95,8 @@ It's the type of the paste you just created (again!), if you forgot what is was.
 
 - [Camille Eyriès](https://github.com/camilleeyries/)
 - You ?
+
+# LICENSE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>
+For further informations see ```LICENSE``` file
