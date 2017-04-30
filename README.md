@@ -53,6 +53,6 @@ Side note: URL_SHORTENER is not supported yet.
 
 ## Classes
 
-### </a id="#pasta_object">pasta_object
+### pasta_object
 
 ##### Any ortographic help is welcome. I'm french. I speak english like an albinos unicorn.
