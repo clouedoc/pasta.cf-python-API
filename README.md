@@ -1,3 +1,16 @@
+# Pasta.cf python API
+
+It's a simple API for [pasta.cf](https://pasta.cf) written in python.
+It can:
+  - create pasta of all types ( except url shortener )
+  - remove pasta
+  - edit and existing pasta
+  - read a pasta
+  
+Built with Cmd+Alt+I on Chromium, on pasta.cf. ( Devel. console )
+
+Brought to you by Camille Eyriès, because I'm a top level narcissic.
+
 # Installation
 
 ___You need to have ```requests``` installed on your system, for your specific version of python.___
