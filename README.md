@@ -1,5 +1,4 @@
 # IN DEVEL: NOTHING is working AT 04/30/17
-==========================================
 
 # Installation
 
@@ -42,7 +41,7 @@ print("Paste url is: " + paste.url)
 ## Functions:
 
 - create(title, text, type)
--
+
 Return a [pasta_object](https://github.com/camilleeyries/pasta.cf-python-API#pasta_object)
 
 ## Constants:
@@ -60,23 +59,23 @@ Side note: URL_SHORTENER is not supported yet.
 ### pasta_object
 
 - pasta['token']
--
+
 The token of your pasta e.g: ```papa-sampling-random```
 
 - pasta['view']
--
+
 It's the standard user GUI url to see the pasta you just created.
 
 - pasta['raw']
--
+
 It's the raw GUI of your pasta, without fireworks.
 
 - pasta['password']
--
+
 It's the password of the paste you just created, if it's type is ```EDITABLE```
 
 - pasta['type']
--
+
 It's the type of the paste you just created (again!), if you forgot what is was.
 
 
