@@ -42,6 +42,14 @@ print("Paste url is: " + paste.url)
 
 Return a [pasta_object](https://github.com/camilleeyries/pasta.cf-python-API#pasta_object)
 
+- remove(pasta-token, password)
+
+Remove a pasta. Return nothing
+
+- edit(pasta-token, password, title, text)
+
+Edit an already created pasta. Only work with editable pasta. Return nothing
+
 ## Constants:
 
 ### Paste type:
