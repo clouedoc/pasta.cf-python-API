@@ -9,17 +9,14 @@ It can:
   
 Built with Cmd+Alt+I on Chromium, on pasta.cf. ( Devel. console )
 
-Brought to you by Camille Eyriès, because I'm a top level narcissic.
+Brought to you by <censored due to google finding this account>, because I'm a top level narcissic.
 
 # Installation
 
 ___You need to have ```requests``` installed on your system, for your specific version of python.___
 
 
-```sh
-pip install requests
-git clone https://github.com/camilleeyries/pasta.cf-python-API.git
-```
+<censored due to google finding this file; basically, git clone and pip install>
 
 Now move pastacfapi.py to the root file of your project ( or somewhere in your $PYTHONPATH )
 
@@ -42,7 +39,7 @@ pastacfapi.create(paste_title, paste_text, paste_type)
 ```py
 import pastacfapi
 
-paste = pastacfapi.create("PASTA-CF-API", "Wow, this API is really great, thanks to Camille Eyriès, <3", pastacfapi.SELF_BURNING)
+paste = pastacfapi.create("PASTA-CF-API", "Wow, this API is really great, thanks to <censored due to google>, <3", pastacfapi.SELF_BURNING)
 
 print("Paste url is: " + paste.url)
 ```
@@ -53,7 +50,7 @@ print("Paste url is: " + paste.url)
 
 - create(title, text, type)
 
-Return a [pasta_object](https://github.com/camilleeyries/pasta.cf-python-API#pasta_object)
+Return a [pasta_object](#pasta_object)
 
 - remove(pasta-token, password)
 
@@ -110,7 +107,7 @@ It's the type of the paste you just created (again!), if you forgot what is was.
 
 # Contributors:
 
-- [Camille Eyriès](https://github.com/camilleeyries/)
+- <censored due to google finding this file>
 - You ?
 
 # LICENSE
